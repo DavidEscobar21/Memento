@@ -1,0 +1,2 @@
+# Memento
+patrón de diseño
